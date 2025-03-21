@@ -43,12 +43,7 @@ The Distributed Cache Simulator is a Python-based framework for evaluating cachi
    cd distributed-cache-simulator
    ```
 
-2. Install dependencies:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Ensure Python 3.7+ is installed.
+2. Ensure Python 3.7+ is installed.
 
 ## Usage
 
